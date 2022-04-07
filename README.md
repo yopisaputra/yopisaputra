@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @yopisaputra
 - 👀 I’m interested in Mobile Programming, Web Programming, and Cloud Computing
-- 🌱 I’m currently learning Java Programming
+- 🌱 I’m currently learning Android Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yopi-sptr/).
 
