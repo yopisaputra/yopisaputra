@@ -17,8 +17,3 @@
 yopisaputra/yopisaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-[![Twitter: yopi_sptr](https://img.shields.io/twitter/follow/yopi_sptr?style=social)](https://twitter.com/yopi_sptr)
-[![Linkedin: yopi-sptr](https://img.shields.io/badge/-yopi-sptr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yopi-sptr/)](https://www.linkedin.com/in/yopi-sptr/)
-[![GitHub yopsaputra](https://img.shields.io/github/followers/yopsaputra?label=follow&style=social)](https://github.com/yopsaputra)
